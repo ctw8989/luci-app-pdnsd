@@ -2,7 +2,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=luci-app-pdnsd
 PKG_VERSION=1.2
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 PKG_MAINTAINER:=Alex Zhuo <1886090@gmail.com>
 
 PKG_BUILD_DIR:=$(BUILD_DIR)/$(PKG_NAME)
